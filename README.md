@@ -1,1 +1,1 @@
-## Practice RESTful API wit GIN
+## Practice RESTful API with GIN
